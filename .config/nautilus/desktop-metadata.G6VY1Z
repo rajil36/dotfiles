@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1558068722
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1558068722
+nautilus-icon-position=56,26
+icon-scale=1
+
+[My Passport.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1541947046
+
+[OS.volume]
+nautilus-icon-position=56,286
+icon-scale=1
+nautilus-icon-position-timestamp=1541947089
+
+[Data.volume]
+nautilus-icon-position=56,406
+icon-scale=1
+nautilus-icon-position-timestamp=1541947094

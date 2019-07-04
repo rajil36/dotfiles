@@ -1,0 +1,11 @@
+[Info  - 11:35:30 AM] ESLint server stopped.
+[Info  - 11:35:30 AM] ESLint server running in node v10.2.0
+[Info  - 11:35:30 AM] ESLint server is running.
+[Info  - 11:35:30 AM] 
+Failed to load the ESLint library for the document /media/luffy/Data2/finbox-lambdas/ingestion_assembly/handler.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder ingestion_assembly
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder ingestion_assembly by executing the 'Disable ESLint' command.

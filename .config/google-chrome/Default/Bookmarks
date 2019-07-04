@@ -1,0 +1,1139 @@
+{
+   "checksum": "32d48ef61964f8d817c8420286e80dba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13001933883770279",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13202199948411299"
+            },
+            "name": "",
+            "sync_transaction_version": "1958",
+            "type": "url",
+            "url": "https://www.google.com/accounts/ServiceLogin?service=mail&passive=true&rm=false&continue=http://mail.google.com/mail/%3Fui%3Dhtml%26zy%3Dl&bsv=1eic6yu9oa4y3&scc=1&ltmpl=default&ltmplcache=2"
+         }, {
+            "date_added": "13001933883771279",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13202041540636283"
+            },
+            "name": "",
+            "sync_transaction_version": "1957",
+            "type": "url",
+            "url": "http://www.facebook.com/"
+         }, {
+            "date_added": "13001933883771279",
+            "id": "39",
+            "meta_info": {
+               "last_visited": "13186273324337901",
+               "last_visited_desktop": "13204279202417256"
+            },
+            "name": "",
+            "sync_transaction_version": "2080",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13001933883771279",
+            "id": "40",
+            "meta_info": {
+               "last_visited": "13143527624197279",
+               "last_visited_desktop": "13168364582314551"
+            },
+            "name": "",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "http://www.espncricinfo.com/"
+         }, {
+            "date_added": "13001933883771279",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13194027243548767"
+            },
+            "name": "",
+            "sync_transaction_version": "925",
+            "type": "url",
+            "url": "http://www.google.co.in/"
+         }, {
+            "date_added": "13001933883771279",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13157367579717545"
+            },
+            "name": "",
+            "sync_transaction_version": "19",
+            "type": "url",
+            "url": "http://www.wikipedia.org/"
+         }, {
+            "date_added": "13001933883772279",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13192730476255761"
+            },
+            "name": "Way2sms",
+            "sync_transaction_version": "531",
+            "type": "url",
+            "url": "http://site2.way2sms.com/content/index.html"
+         }, {
+            "children": [ {
+               "date_added": "13001933883775279",
+               "id": "91",
+               "meta_info": {
+                  "last_visited_desktop": "13183822147969822"
+               },
+               "name": "Real World Haskell",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://book.realworldhaskell.org/read/"
+            }, {
+               "date_added": "13001933883775279",
+               "id": "92",
+               "meta_info": {
+                  "last_visited_desktop": "13176891280416208"
+               },
+               "name": "The Python Standard Library — Python v2.7.2 documentation",
+               "sync_transaction_version": "2081",
+               "type": "url",
+               "url": "http://docs.python.org/library/index.html"
+            }, {
+               "date_added": "13001933883775279",
+               "id": "93",
+               "meta_info": {
+                  "last_visited_desktop": "13192893926281173"
+               },
+               "name": "Linux Kernel",
+               "sync_transaction_version": "557",
+               "type": "url",
+               "url": "http://tldp.org/LDP/tlk/tlk-toc.html"
+            }, {
+               "date_added": "13001933883775279",
+               "id": "94",
+               "meta_info": {
+                  "last_visited_desktop": "13179135532146914"
+               },
+               "name": "Git Community Book",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://book.git-scm.com/index.html"
+            }, {
+               "date_added": "13001933883776279",
+               "id": "95",
+               "meta_info": {
+                  "last_visited_desktop": "13179135536167819"
+               },
+               "name": "ELMS IIT Kanpur",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://msdn70.e-academy.com/elms/Storefront/Home.aspx?campus=iitk_compsci"
+            }, {
+               "date_added": "13047048082647246",
+               "id": "96",
+               "meta_info": {
+                  "last_visited_desktop": "13183822157639879"
+               },
+               "name": "Naruto 629 - Page 8",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.mangareader.net/naruto/629/9"
+            }, {
+               "date_added": "13183053799616303",
+               "id": "97",
+               "meta_info": {
+                  "last_visited_desktop": "13183312384878833"
+               },
+               "name": "(1) 4 Android Material Design Tutorial - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD"
+            } ],
+            "date_added": "13186420249479400",
+            "date_modified": "13186420249479400",
+            "id": "44",
+            "name": "Imp",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13009610601052682",
+               "id": "90",
+               "meta_info": {
+                  "last_visited_desktop": "13181765679940187"
+               },
+               "name": "Sort objects stored in deque : custom comparer « STL Algorithms Sorting « C++ Tutorial",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.java2s.com/Tutorial/Cpp/0540__STL-Algorithms-Sorting/Sortobjectsstoredindeque.htm"
+            }, {
+               "date_added": "13197447836041776",
+               "id": "130",
+               "meta_info": {
+                  "last_visited_desktop": "13197663675364052"
+               },
+               "name": "Node.js Tutorial – Step-by-Step Guide For Getting Started",
+               "sync_transaction_version": "1631",
+               "type": "url",
+               "url": "https://www.airpair.com/javascript/node-js-tutorial"
+            }, {
+               "children": [ {
+                  "date_added": "13202559944801753",
+                  "id": "147",
+                  "meta_info": {
+                     "last_visited_desktop": "13203071899327209"
+                  },
+                  "name": "Reading and Writing A Single Item in DynamoDB - AWS SDK for JavaScript",
+                  "sync_transaction_version": "2027",
+                  "type": "url",
+                  "url": "https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/dynamodb-example-table-read-write.html"
+               }, {
+                  "date_added": "13202559992569360",
+                  "id": "149",
+                  "meta_info": {
+                     "last_visited_desktop": "13203071881744389"
+                  },
+                  "name": "dynamodb - npm",
+                  "sync_transaction_version": "2025",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/package/dynamodb"
+               }, {
+                  "date_added": "13202560010731640",
+                  "id": "150",
+                  "meta_info": {
+                     "last_visited_desktop": "13203071844486219"
+                  },
+                  "name": "Node.js RESTful API with DynamoDB Local – Quick Code – Medium",
+                  "sync_transaction_version": "2023",
+                  "type": "url",
+                  "url": "https://medium.com/quick-code/node-js-restful-api-with-dynamodb-local-7e342a934a24"
+               } ],
+               "date_added": "13202559963271002",
+               "date_modified": "13203583856261916",
+               "id": "148",
+               "name": "DynamoDB",
+               "sync_transaction_version": "1983",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13197478134603377",
+                  "id": "131",
+                  "meta_info": {
+                     "last_visited_desktop": "13203156278343287"
+                  },
+                  "name": "puppeteer/api.md at v1.13.0 · GoogleChrome/puppeteer · GitHub",
+                  "sync_transaction_version": "2034",
+                  "type": "url",
+                  "url": "https://github.com/GoogleChrome/puppeteer/blob/v1.13.0/docs/api.md"
+               }, {
+                  "date_added": "13197549370435265",
+                  "id": "133",
+                  "meta_info": {
+                     "last_visited_desktop": "13203156286847815"
+                  },
+                  "name": "GitHub - GoogleChrome/puppeteer: Headless Chrome Node API",
+                  "sync_transaction_version": "2037",
+                  "type": "url",
+                  "url": "https://github.com/GoogleChrome/puppeteer"
+               }, {
+                  "date_added": "13197718544056476",
+                  "id": "136",
+                  "meta_info": {
+                     "last_visited_desktop": "13197732890733739"
+                  },
+                  "name": "puppeteer/examples at master · GoogleChrome/puppeteer · GitHub",
+                  "sync_transaction_version": "1676",
+                  "type": "url",
+                  "url": "https://github.com/GoogleChrome/puppeteer/tree/master/examples/"
+               }, {
+                  "date_added": "13197718973315564",
+                  "id": "137",
+                  "meta_info": {
+                     "last_visited_desktop": "13197718973316134"
+                  },
+                  "name": "Getting Started with Headless Chrome  |  Web  |  Google Developers",
+                  "sync_transaction_version": "1649",
+                  "type": "url",
+                  "url": "https://developers.google.com/web/updates/2017/04/headless-chrome"
+               } ],
+               "date_added": "13197478156999514",
+               "date_modified": "13197718973315564",
+               "id": "132",
+               "name": "puppeteer",
+               "sync_transaction_version": "1607",
+               "type": "folder"
+            }, {
+               "date_added": "13197549384436551",
+               "id": "134",
+               "meta_info": {
+                  "last_visited_desktop": "13197663681461824"
+               },
+               "name": "Node.js Streams",
+               "sync_transaction_version": "1632",
+               "type": "url",
+               "url": "https://www.tutorialspoint.com/nodejs/nodejs_streams.htm"
+            }, {
+               "children": [ {
+                  "date_added": "13204042097652242",
+                  "id": "156",
+                  "meta_info": {
+                     "last_visited_desktop": "13204121889205577"
+                  },
+                  "name": "Automate your Serverless API integration tests locally.",
+                  "sync_transaction_version": "2077",
+                  "type": "url",
+                  "url": "https://medium.com/@octoz/automate-your-serverless-api-integration-tests-locally-e2f41d3ec757"
+               } ],
+               "date_added": "13204042115660395",
+               "date_modified": "13204042115660675",
+               "id": "157",
+               "name": "serverless",
+               "sync_transaction_version": "2067",
+               "type": "folder"
+            } ],
+            "date_added": "13186420249479560",
+            "date_modified": "13202559992569360",
+            "id": "45",
+            "name": "Lang tut",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13109695587833791",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13159453573346722"
+            },
+            "name": "Grooveshark - Free Music Streaming",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://groovesharks.org/"
+         }, {
+            "children": [ {
+               "date_added": "13161384969538330",
+               "id": "79",
+               "meta_info": {
+                  "last_visited_desktop": "13161384969566822"
+               },
+               "name": "17 Tips Every Netflix User Needs To Know",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.buzzfeed.com/nicolenguyen/reparo-netflix?utm_term=.prN3oZkdkG#.baNXyv9197"
+            }, {
+               "date_added": "13161385111738552",
+               "id": "80",
+               "meta_info": {
+                  "last_visited_desktop": "13161385111739382"
+               },
+               "name": "NC-17 movies available on Netflix Streaming : movies",
+               "sync_transaction_version": "1875",
+               "type": "url",
+               "url": "https://www.reddit.com/r/movies/comments/1djsyn/nc17_movies_available_on_netflix_streaming/"
+            } ],
+            "date_added": "13186420249480195",
+            "date_modified": "13186420249480195",
+            "id": "48",
+            "name": "NETFLIX",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13165056170045523",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13194027270685505"
+            },
+            "name": "XOR - The magical bitwise operator – Hacker Noon",
+            "sync_transaction_version": "926",
+            "type": "url",
+            "url": "https://hackernoon.com/xor-the-magical-bit-wise-operator-24d3012ed821"
+         }, {
+            "date_added": "13167556770299870",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13194894373896096"
+            },
+            "name": "Build a solid career in tech without a CS major – Aman Goel – Medium",
+            "sync_transaction_version": "999",
+            "type": "url",
+            "url": "https://medium.com/@amangoeliitb/build-a-solid-career-in-tech-without-a-cs-major-39cdef86013"
+         }, {
+            "date_added": "13179076353675718",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13194027225994634"
+            },
+            "name": "Google",
+            "sync_transaction_version": "923",
+            "type": "url",
+            "url": "https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png"
+         }, {
+            "date_added": "13164611232538830",
+            "id": "52",
+            "name": "Google Cloud Machine Learning at Scale  |  Google Cloud Platform",
+            "sync_transaction_version": "2084",
+            "type": "url",
+            "url": "https://cloud.google.com/products/machine-learning/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-bkws-all-all-trial-b-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_252375308074-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+%7E+T1+%7C+BMM+%7C+ML+%7C+M%3A1+%7C+IN+%7C+en+%7C+General+%7C+Machine+Learning-KWID_43700030447551793-kwd-320055868536&userloc_20465&utm_term=KW_%2Bmachine%20%2Blearning%20%2Bgoogle&gclid=CjwKCAiArOnUBRBJEiwAX0rG_cKRtOlPVA2EGjln0mh9Qar4k6I8Jpac4UBBiIje6lip195OdE3vfxoC7PsQAvD_BwE&dclid=CJ794ujp0dkCFQNmjgodjyUBpQ"
+         }, {
+            "date_added": "13167248840489685",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13194027225994634"
+            },
+            "name": "Google",
+            "sync_transaction_version": "924",
+            "type": "url",
+            "url": "https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png"
+         }, {
+            "children": [ {
+               "date_added": "13194028159854407",
+               "id": "120",
+               "meta_info": {
+                  "last_visited_desktop": "13194028159854838"
+               },
+               "name": "RySim – opensource.google.com",
+               "sync_transaction_version": "932",
+               "type": "url",
+               "url": "https://opensource.google.com/projects/rysim"
+            }, {
+               "date_added": "13194028524271355",
+               "id": "122",
+               "meta_info": {
+                  "last_visited_desktop": "13194028524271782"
+               },
+               "name": "CCTZ – opensource.google.com",
+               "sync_transaction_version": "939",
+               "type": "url",
+               "url": "https://opensource.google.com/projects/cctz"
+            }, {
+               "date_added": "13194033602340516",
+               "id": "123",
+               "meta_info": {
+                  "last_visited_desktop": "13194033602340964"
+               },
+               "name": "Compact Encoding Detector – opensource.google.com",
+               "sync_transaction_version": "943",
+               "type": "url",
+               "url": "https://opensource.google.com/projects/ced"
+            } ],
+            "date_added": "13194028186694842",
+            "date_modified": "13194033602340516",
+            "id": "121",
+            "name": "Gsoc Projects",
+            "sync_transaction_version": "934",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13197228833103625",
+               "id": "127",
+               "meta_info": {
+                  "last_visited_desktop": "13197231384670207"
+               },
+               "name": "TensorFlow  |  TensorFlow",
+               "sync_transaction_version": "1474",
+               "type": "url",
+               "url": "https://www.tensorflow.org/tutorials"
+            }, {
+               "date_added": "13191329968169644",
+               "id": "118",
+               "name": "ML Practicum: Image Classification  |  Machine Learning Practica  |  Google Developers",
+               "sync_transaction_version": "1474",
+               "type": "url",
+               "url": "https://developers.google.com/machine-learning/practica/image-classification/"
+            }, {
+               "date_added": "13197228807470632",
+               "id": "126",
+               "meta_info": {
+                  "last_visited_desktop": "13197231258945876"
+               },
+               "name": "Deep Learning Tutorials — DeepLearning 0.1 documentation",
+               "sync_transaction_version": "1474",
+               "type": "url",
+               "url": "http://deeplearning.net/tutorial/"
+            }, {
+               "date_added": "13197231628347482",
+               "id": "128",
+               "meta_info": {
+                  "last_visited_desktop": "13197232026352940"
+               },
+               "name": "basic-text-classification.ipynb - Colaboratory",
+               "sync_transaction_version": "1474",
+               "type": "url",
+               "url": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_text_classification.ipynb#scrollTo=6hXx-xOv-llh"
+            } ],
+            "date_added": "13197309412488932",
+            "date_modified": "13197309412490209",
+            "id": "125",
+            "name": "Deep Learning",
+            "sync_transaction_version": "1474",
+            "type": "folder"
+         }, {
+            "date_added": "13148676468050800",
+            "id": "54",
+            "meta_info": {
+               "last_visited": "13167412814940466",
+               "last_visited_desktop": "13192985336670183"
+            },
+            "name": "Read Manga Online for Free. Online Manga Reader",
+            "sync_transaction_version": "568",
+            "type": "url",
+            "url": "http://www.mangareader.net/"
+         }, {
+            "date_added": "13165226536362298",
+            "id": "55",
+            "name": "Introduction to Machine Learning  |  Machine Learning Crash Course  |  Google Developers",
+            "sync_transaction_version": "390",
+            "type": "url",
+            "url": "https://developers.google.com/machine-learning/crash-course/ml-intro"
+         }, {
+            "children": [ {
+               "date_added": "13132767926218436",
+               "id": "75",
+               "name": "DELL 7567 GAMING LAPTOP REVIEW - GTX 1050 Ti + Kaby Lake! - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2KlXQ5veiKI"
+            }, {
+               "date_added": "13132767474603955",
+               "id": "76",
+               "name": "Amazon.com: Dell 15.6-Inch Gaming Laptop (6th Gen Intel Quad-Core i5-6300HQ Processor up to 3.2GHz, 8GB DDR3, 256GB SSD, Nvidia GeForce GTX 960M, Windows 10): Computers & Accessories",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.amazon.com/Dell-15-6-Inch-Quad-Core-i5-6300HQ-Processor/dp/B015PYZ0J6/ref=as_li_ss_tl?ie=UTF8&qid=1487284411&sr=8-2&keywords=dell%2B7567&linkCode=sl1&tag=savaandjohn-20&linkId=a4870aa5529e35d90eec963efd75eec8&th=1"
+            }, {
+               "date_added": "13132768292666945",
+               "id": "77",
+               "meta_info": {
+                  "last_visited_desktop": "13178906654436340"
+               },
+               "name": "Amazon.com: Dell Inspiron i7559-7512GRY 15.6 Inch UHD Touchscreen Laptop (Intel Core i7 2.6 GHz 6th Generation Processor, 1 TB HDD, 16 GB RAM, 128 GB SSD, NVIDIA GeForce GTX 960M, Windows 10): Computers & Accessories",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.amazon.com/dp/B015PZ0EHS/ref=psdc_13896615011_t2_B015PYZ0J6?th=1"
+            }, {
+               "date_added": "13176584690082473",
+               "id": "78",
+               "name": "Share WIFI creating hotspot on Linux Mint - Unix & Linux Stack Exchange",
+               "sync_transaction_version": "2041",
+               "type": "url",
+               "url": "https://unix.stackexchange.com/questions/297151/share-wifi-creating-hotspot-on-linux-mint"
+            } ],
+            "date_added": "13186420249482330",
+            "date_modified": "13186516789192902",
+            "id": "56",
+            "name": "Laptop",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13148838313931998",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13151752702507186"
+            },
+            "name": "AmazonBasics Laptop Backpack - Fits Up To 15-Inch Laptops: Amazon.in: Bags, Wallets & Luggage",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.amazon.in/AmazonBasics-Laptop-Backpack-15-Inch-Laptops/dp/B00EEBS25Q/ref=sr_1_6?s=luggage&ie=UTF8&qid=1504364172&sr=1-6&nodeID=2454169031&psd=1&keywords=amazon+basics+backpacks"
+         }, {
+            "date_added": "13132573501515959",
+            "id": "59",
+            "meta_info": {
+               "last_visited_desktop": "13159646104965465"
+            },
+            "name": "Dell Inspiron 15 7537 7537781TB2ST Touch (Ci7/ 8GB/ 1TB/ Win8/ 2GB Graphic) Price in India February 26, 2017",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.findyogi.com/laptops/dell/dell-inspiron-15-7537-7537781tb2st-touch-ci7-8gb-1tb-win8-2gb-graphic-b95b50/price#recommended-products"
+         }, {
+            "date_added": "13149687491787251",
+            "id": "60",
+            "meta_info": {
+               "last_visited_desktop": "13160152085291025"
+            },
+            "name": "Mi 10000mAH Power Bank 2 (Black): Amazon.in: Electronics",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.amazon.in/Mi-10000mAH-Power-Bank-Black/dp/B073D39B45/ref=sr_1_1?s=electronics&ie=UTF8&qid=1504859168&sr=1-1&keywords=mi+powerbank+20000+mah"
+         }, {
+            "date_added": "13153581280460183",
+            "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13161805405639854"
+            },
+            "name": "How to Install the Latest GCC on Windows",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/"
+         }, {
+            "date_added": "13154355427090856",
+            "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13203176721341707"
+            },
+            "name": "Support for Inspiron 15 Gaming 7567 | Drivers & downloads | Dell US",
+            "sync_transaction_version": "2043",
+            "type": "url",
+            "url": "http://www.dell.com/support/home/us/en/04/product-support/servicetag/fdxdyf2/drivers"
+         }, {
+            "date_added": "13154527736536927",
+            "id": "63",
+            "meta_info": {
+               "last_visited": "13200919792251823",
+               "last_visited_desktop": "13203176369941522"
+            },
+            "name": "Internet Authentication",
+            "sync_transaction_version": "2040",
+            "type": "url",
+            "url": "http://192.168.1.5:8090/httpclient.html"
+         }, {
+            "date_added": "13157033102606291",
+            "id": "64",
+            "meta_info": {
+               "last_visited_desktop": "13186593000526483"
+            },
+            "name": "Amazon.com: Samsung 960 PRO Series - 512GB PCIe NVMe - M.2 Internal SSD (MZ-V6P512BW): Computers & Accessories",
+            "sync_transaction_version": "61",
+            "type": "url",
+            "url": "https://www.amazon.com/Samsung-960-PRO-Internal-MZ-V6P512BW/dp/B01LXS4TYB/ref=sr_1_4?ie=UTF8&qid=1512559055&sr=8-4&keywords=ssd+pcie"
+         }, {
+            "date_added": "13160682409232988",
+            "id": "65",
+            "meta_info": {
+               "last_visited_desktop": "13161208174597460"
+            },
+            "name": "Episode 0 5- All That Glitters.mp4 Download - CoolsAnime.Com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://coolsanime.in/download/125/episode_0_5-_all_that_glitters.html"
+         }, {
+            "date_added": "13168886304392464",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13176229886230893"
+            },
+            "name": "CODECHEF RATING PREDICTOR - CodeChef Discuss",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://discuss.codechef.com/questions/125426/codechef-rating-predictor"
+         }, {
+            "date_added": "13169586249815454",
+            "id": "67",
+            "meta_info": {
+               "last_visited_desktop": "13169926368435422"
+            },
+            "name": "Spider-Man 1994 The Animated Series S02E06 Morbius - Video Dailymotion",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.dailymotion.com/video/x288i6l"
+         }, {
+            "date_added": "13175844859933300",
+            "id": "68",
+            "meta_info": {
+               "last_visited_desktop": "13176327663237583"
+            },
+            "name": "State Bank Collect",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.onlinesbi.com/prelogin/icollecthome.htm?corpID"
+         }, {
+            "date_added": "13176019217800115",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13176155343654364"
+            },
+            "name": "Download Supernatural 4x13 Subtitles - videosubtitles.net",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.videosubtitles.net/1560413-2/"
+         }, {
+            "date_added": "13176318374392304",
+            "id": "70",
+            "meta_info": {
+               "last_visited_desktop": "13176318374392790"
+            },
+            "name": "Yu-Gi-Oh! Complete Series (English) [yugioh, duel monsters] (download torrent) - TPB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://thepiratebay.org/torrent/9254962/Yu-Gi-Oh__Complete_Series_(English)_[yugioh__duel_monsters]"
+         }, {
+            "date_added": "13177076706891860",
+            "id": "71",
+            "meta_info": {
+               "last_visited_desktop": "13177076706892471"
+            },
+            "name": "Kickstart",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://code.google.com/codejam/kickstart/"
+         }, {
+            "date_added": "13178816060778638",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13178816060779328"
+            },
+            "name": "ReleaseNotes.html",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "file:///C:/Program%20Files/Git/ReleaseNotes.html"
+         }, {
+            "date_added": "13185741185057137",
+            "id": "73",
+            "name": "deep learning specialization coursera - YouTube",
+            "sync_transaction_version": "398",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=deep+learning+specialization+coursera"
+         }, {
+            "date_added": "13186045906622451",
+            "id": "74",
+            "meta_info": {
+               "last_visited_desktop": "13195493972692192"
+            },
+            "name": "The Company Alpha",
+            "sync_transaction_version": "1049",
+            "type": "url",
+            "url": "https://thecompanygame.neocities.org/play.html"
+         }, {
+            "date_added": "13186516789192902",
+            "id": "98",
+            "meta_info": {
+               "last_visited_desktop": "13186836669615618"
+            },
+            "name": "Summer@EPFL | IC",
+            "sync_transaction_version": "136",
+            "type": "url",
+            "url": "https://ic.epfl.ch/SummerAtEPFL"
+         }, {
+            "date_added": "13186641337939521",
+            "id": "101",
+            "meta_info": {
+               "last_visited_desktop": "13187436514378757"
+            },
+            "name": "JBL T210 Wired Headset with Mic Price in India - Buy JBL T210 Wired Headset with Mic Online - JBL : Flipkart.com",
+            "sync_transaction_version": "185",
+            "type": "url",
+            "url": "https://www.flipkart.com/jbl-t210-wired-headset-mic/p/itmf3vgz6aedbafu?pid=ACCFY3VEYGGGAG2H&lid=LSTACCFY3VEYGGGAG2HF1G9EL&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3AACCEQHZWMHZGHDN9%3Bpt%3App%3Buid%3Abf26a1b5-126e-a285-70f1-955528b46508%3B.ACCFY3VEYGGGAG2H.LSTACCFY3VEYGGGAG2HF1G9EL&ppt=ProductPage&ppn=ProductPage&otracker=pp_reco_Similar%2BProducts_5_31.productCard.PMU_HORIZONTAL_JBL%2BT210%2BWired%2BHeadset%2Bwith%2BMic_ACCFY3VEYGGGAG2H.LSTACCFY3VEYGGGAG2HF1G9EL_productRecommendation%2Fsimilar_4&cid=ACCFY3VEYGGGAG2H.LSTACCFY3VEYGGGAG2HF1G9EL"
+         }, {
+            "children": [ {
+               "date_added": "13186692238137212",
+               "id": "103",
+               "meta_info": {
+                  "last_visited_desktop": "13195315965506100"
+               },
+               "name": "movtivation ",
+               "sync_transaction_version": "1028",
+               "type": "url",
+               "url": "https://motivationalletter.com/motivation-letter-for-research-internship-in-life-sciences-sample/"
+            }, {
+               "date_added": "13186692524435397",
+               "id": "105",
+               "meta_info": {
+                  "last_visited_desktop": "13186736922110465"
+               },
+               "name": "internship – Motivational letter",
+               "sync_transaction_version": "109",
+               "type": "url",
+               "url": "https://motivationalletter.com/tag/internship/"
+            } ],
+            "date_added": "13186692302474808",
+            "date_modified": "13186692530169092",
+            "id": "104",
+            "name": "motivation",
+            "sync_transaction_version": "93",
+            "type": "folder"
+         }, {
+            "date_added": "13186696354795853",
+            "id": "106",
+            "meta_info": {
+               "last_visited_desktop": "13199015175640962"
+            },
+            "name": "Extensions",
+            "sync_transaction_version": "1870",
+            "type": "url",
+            "url": "chrome://extensions/"
+         }, {
+            "date_added": "13186750002264788",
+            "id": "108",
+            "meta_info": {
+               "last_visited_desktop": "13186825346891325"
+            },
+            "name": "EPFL Recruiting",
+            "sync_transaction_version": "134",
+            "type": "url",
+            "url": "https://recruit.epfl.ch/default.asp?camp=SummerAtEPFL19_IN&ckey=4hUshWmiON89fp4bya3OcOLEaWxerxt8&ID=68354"
+         }, {
+            "date_added": "13186865747140900",
+            "id": "109",
+            "meta_info": {
+               "last_visited_desktop": "13186865747141110"
+            },
+            "name": "EPFL Recruiting file upload Form",
+            "sync_transaction_version": "139",
+            "type": "url",
+            "url": "https://recruit.epfl.ch/upForm.asp?ID=68354&todo=uplDoc&ckey=4hUshWmiON89fp4bya3OcOLEaWxerxt8&sestype="
+         }, {
+            "date_added": "13186948791692118",
+            "id": "110",
+            "meta_info": {
+               "last_visited_desktop": "13187018584142257"
+            },
+            "name": "pdi_Pedro_Ribeiro.pdf",
+            "sync_transaction_version": "153",
+            "type": "url",
+            "url": "https://paginas.fe.up.pt/~ee03188/Tese/wp-content/uploads/2014/08/pdi_Pedro_Ribeiro.pdf"
+         }, {
+            "date_added": "13188983835943280",
+            "id": "114",
+            "meta_info": {
+               "last_visited_desktop": "13192823016335268"
+            },
+            "name": "#rules-❗❗❗",
+            "sync_transaction_version": "544",
+            "type": "url",
+            "url": "https://discordapp.com/channels/497163871375720449/497536794313883649"
+         }, {
+            "date_added": "13191188805569097",
+            "id": "117",
+            "meta_info": {
+               "last_visited_desktop": "13196539920718936"
+            },
+            "name": "Watch anime online, English anime online - Gogoanime",
+            "sync_transaction_version": "1049",
+            "type": "url",
+            "url": "https://gogoanimes.co/"
+         }, {
+            "date_added": "13198596657113433",
+            "id": "139",
+            "meta_info": {
+               "last_visited_desktop": "13198596657113853"
+            },
+            "name": "Watch Yu-Gi-Oh! Duel Monsters English Dub - Animeland",
+            "sync_transaction_version": "1863",
+            "type": "url",
+            "url": "https://www.animeland.us/dub/yu-gi-oh-duel-monsters"
+         }, {
+            "date_added": "13199897559055499",
+            "id": "141",
+            "meta_info": {
+               "last_visited_desktop": "13199897559055753"
+            },
+            "name": "Sony SRS-XB10 EXTRA BASS Portable Splash-proof Wireless: Amazon.in: Amazon.in",
+            "sync_transaction_version": "1945",
+            "type": "url",
+            "url": "https://www.amazon.in/Sony-SRS-XB10-Portable-Splash-proof-Bluetooth/dp/B06Y5FYBKP/ref=sr_1_1?crid=KEHT4X0IM05G&keywords=srs+xb10&qid=1555422853&s=gateway&sprefix=srs+%2Caps%2C297&sr=8-1"
+         }, {
+            "date_added": "13200392993915553",
+            "id": "143",
+            "meta_info": {
+               "last_visited_desktop": "13200907606075352"
+            },
+            "name": "Beyblade Metal Fusion 🍿 - CartoonCrazy",
+            "sync_transaction_version": "1950",
+            "type": "url",
+            "url": "https://www1.cartooncrazy.tv/anime/beyblade-metal-fusion/"
+         }, {
+            "date_added": "13202482626033349",
+            "id": "145",
+            "meta_info": {
+               "last_visited_desktop": "13202544673698007"
+            },
+            "name": "Moto 360 Charger, Replacment Moto 360 Charger Cradle Dock for Motorola Moto 360 1st Gen Smart Watch (Moto 360 Charger): Amazon.in: Computers & Accessories",
+            "sync_transaction_version": "1975",
+            "type": "url",
+            "url": "https://www.amazon.in/Charger-Replacment-Cradle-Motorola-Smart/dp/B0759KD4G7?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKCAjwlPTmBRBoEiwAHqpvhdqMlrGlBhl9lpyWRi9Fn7NysQJCK--x_vNMNp8286uJ_O-Ue0qXQRoCtW8QAvD_BwE_k_&gclid=CjwKCAjwlPTmBRBoEiwAHqpvhdqMlrGlBhl9lpyWRi9Fn7NysQJCK--x_vNMNp8286uJ_O-Ue0qXQRoCtW8QAvD_BwE"
+         }, {
+            "date_added": "13203583856261916",
+            "id": "153",
+            "meta_info": {
+               "last_visited_desktop": "13204129165384729"
+            },
+            "name": "Visual Studio Code Tips and Tricks",
+            "sync_transaction_version": "2082",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs/getstarted/tips-and-tricks"
+         } ],
+         "date_added": "13186420205866096",
+         "date_modified": "13204042097652242",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13001933883784279",
+               "id": "32",
+               "name": "stefanoverna/awesome-config-files at master - GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/stefanoverna/awesome-config-files"
+            }, {
+               "date_added": "13001933883784279",
+               "id": "33",
+               "name": "www.alte.ru/awesome/config/rc.lua",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.alte.ru/awesome/config/rc.lua"
+            }, {
+               "date_added": "13001933883784279",
+               "id": "34",
+               "name": "awesome-configs - configuration files for awesome window manager",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://git.sysphere.org/awesome-configs/tree/rc.lua"
+            }, {
+               "date_added": "13001933883784279",
+               "id": "35",
+               "name": "Read Manga Online,Read Free Manga Online - Manga Chapter",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mangachapter.net/"
+            } ],
+            "date_added": "13186420249459390",
+            "date_modified": "13186420249459390",
+            "id": "6",
+            "name": "Awesome config files",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13001933883784279",
+               "id": "29",
+               "name": "The ultimate Vim configuration - vimrc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://amix.dk/vim/vimrc.html"
+            }, {
+               "date_added": "13001933883784279",
+               "id": "30",
+               "name": "www.jukie.net/~bart/conf/vimrc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jukie.net/~bart/conf/vimrc"
+            }, {
+               "date_added": "13001933883784279",
+               "id": "31",
+               "meta_info": {
+                  "last_visited_desktop": "13181850050785074"
+               },
+               "name": "VIM configuration file (.vimrc) - World of Slack",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.slackorama.com/projects/vim/vimrc.html"
+            } ],
+            "date_added": "13186420249474513",
+            "date_modified": "13186420249474513",
+            "id": "7",
+            "name": "Vim config files",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13001933883780279",
+            "id": "8",
+            "name": "Download 24 subtitles in English and other languages - Addic7ed.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.addic7ed.com/show/7"
+         }, {
+            "date_added": "13001933883780279",
+            "id": "9",
+            "name": "TorMovies.org | The Internet Movie Torrent Database",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://tormovies.org/"
+         }, {
+            "date_added": "13001933883781279",
+            "id": "10",
+            "name": "Free GATE 2012 study material and Ebooks for CSE computers | Techvyom",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://techvyom.com/2009/04/free-gate-study-material-and-ebooks-for-2.html"
+         }, {
+            "date_added": "13001933883781279",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13193508196050404"
+            },
+            "name": "Baka-Tsuki",
+            "sync_transaction_version": "882",
+            "type": "url",
+            "url": "http://www.baka-tsuki.org/project/index.php?title=Main_Page"
+         }, {
+            "date_added": "13001933883781279",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13197240403093841"
+            },
+            "name": "Welcome to Coursera",
+            "sync_transaction_version": "1474",
+            "type": "url",
+            "url": "https://www.coursera.org/"
+         }, {
+            "children": [ {
+               "date_added": "13001933883783279",
+               "id": "25",
+               "name": "Hadoop Quickstart",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hadoop.apache.org/docs/r0.18.3/quickstart.html"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "26",
+               "name": "HDFS User Guide",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hadoop.apache.org/docs/r0.18.3/hdfs_user_guide.html"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "27",
+               "name": "Apache Hadoop 2.0.1-alpha",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hadoop.apache.org/docs/current/"
+            }, {
+               "date_added": "13001933883784279",
+               "id": "28",
+               "name": "Hadoop Releases",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hadoop.apache.org/releases.html"
+            } ],
+            "date_added": "13186420249474766",
+            "date_modified": "13186420249474766",
+            "id": "13",
+            "name": "Hadoop",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13001933883783279",
+               "id": "18",
+               "name": "Slicehost Articles: Installing apache on Ubuntu",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://articles.slicehost.com/2010/5/19/installing-apache-on-ubuntu"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "19",
+               "name": "How to configure Virtual Hosting using Apache 2 on Ubuntu | Techgurulive.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://techgurulive.com/2009/02/21/how-to-configure-virtual-hosting-using-apache-2-on-ubuntu/"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "20",
+               "name": "How to Install and Configure Apache Webserver to Host a Website from Your Computer - wikiHow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.wikihow.com/Install-and-Configure-Apache-Webserver-to-Host-a-Website-from-Your-Computer"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "21",
+               "name": "How to host my web site on my computer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.webdevelopersnotes.com/hosting/host_web_site_home_computer.php3"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "22",
+               "name": "Host Your Webpage Using Your Own Computer | CodeHill",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://codehill.com/2010/04/host-your-webpage-using-your-own-computer/"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "23",
+               "name": "Geek to Live: How to set up a personal home web server",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lifehacker.com/124212/geek-to-live--how-to-set-up-a-personal-home-web-server"
+            }, {
+               "date_added": "13001933883783279",
+               "id": "24",
+               "name": "HTTPD - Apache2 Web Server",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://help.ubuntu.com/8.04/serverguide/C/httpd.html"
+            } ],
+            "date_added": "13186420249474771",
+            "date_modified": "13186420249474771",
+            "id": "14",
+            "name": "Apache",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13001933883781279",
+            "id": "15",
+            "name": "Techtalks - A Technical Blog | Useful code | Technical articles | Programming tips",
+            "sync_transaction_version": "387",
+            "type": "url",
+            "url": "http://www.prasannatech.net/search?updated-min=2012-01-01T00:00:00-08:00&updated-max=2013-01-01T00:00:00-08:00&max-results=12"
+         }, {
+            "children": [  ],
+            "date_added": "13186420249474832",
+            "date_modified": "13186420249474832",
+            "id": "16",
+            "name": "result",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13076660425421000",
+            "id": "17",
+            "name": "Check CBSE 10th & 12th Class Result 2015, Official Results site cbseresults.nic.in",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.jagranjosh.com/results/cbse-10th-result-2015-10th-96110"
+         } ],
+         "date_added": "13186420205866099",
+         "date_modified": "13197309412491230",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "2084",
+      "synced": {
+         "children": [ {
+            "date_added": "13186037150584876",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13186066322985850",
+               "last_visited_desktop": "13204055393646030"
+            },
+            "name": "The Company",
+            "sync_transaction_version": "2069",
+            "type": "url",
+            "url": "https://tfgames.site/?module=viewgame&id=1354"
+         }, {
+            "date_added": "13186554741791674",
+            "id": "99",
+            "meta_info": {
+               "last_visited": "13186554751447552"
+            },
+            "name": "Graphics issues after/while installing Ubuntu 16.04/16.10 with NVIDIA graphics - Ask Ubuntu",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics"
+         }, {
+            "date_added": "13187082250685361",
+            "id": "111",
+            "meta_info": {
+               "last_visited": "13188540722121027"
+            },
+            "name": "Answer - Quora",
+            "sync_transaction_version": "906",
+            "type": "url",
+            "url": "https://www.quora.com/How-are-cracked-versions-of-software-created-and-why-are-developers-not-able-to-prevent-it/answer/Dennis-Babkin?ch=3&share=5a72aaa3&srid=alI8"
+         }, {
+            "date_added": "13187534268001885",
+            "id": "112",
+            "meta_info": {
+               "last_visited_desktop": "13187534268002391"
+            },
+            "name": "John Constantine, Hellblazer Vol. 1 - 19 (TPB) (2011-2018) – GetComics",
+            "sync_transaction_version": "203",
+            "type": "url",
+            "url": "https://getcomics.info/dc/john-constantine-hellblazer-vol-1-14-tpb-2011-2016/"
+         } ],
+         "date_added": "13186420205866100",
+         "date_modified": "13201782727307361",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

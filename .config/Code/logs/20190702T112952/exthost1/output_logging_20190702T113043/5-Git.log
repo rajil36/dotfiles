@@ -1,0 +1,52 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /media/luffy/Data2/finbox-lambdas
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil_Local
+> git rev-parse --symbolic-full-name Rajil_Local@{u}
+fatal: no upstream configured for branch 'Rajil_Local'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil_Local
+> git rev-parse --symbolic-full-name Rajil_Local@{u}
+fatal: no upstream configured for branch 'Rajil_Local'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil_Local
+> git rev-parse --symbolic-full-name Rajil_Local@{u}
+fatal: no upstream configured for branch 'Rajil_Local'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil_Local
+> git rev-parse --symbolic-full-name Rajil_Local@{u}
+fatal: no upstream configured for branch 'Rajil_Local'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil_Local
+> git rev-parse --symbolic-full-name Rajil_Local@{u}
+fatal: no upstream configured for branch 'Rajil_Local'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil_Local
+> git rev-parse --symbolic-full-name Rajil_Local@{u}
+fatal: no upstream configured for branch 'Rajil_Local'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :ingestion_assembly/python/utils/__pycache__/service.cpython-36.pyc

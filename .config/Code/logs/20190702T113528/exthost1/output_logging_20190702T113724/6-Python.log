@@ -1,0 +1,24 @@
+Starting Microsoft Python language server.
+[Info  - 11:37:25 AM] Analysis cache path: /home/luffy/.cache/Microsoft/Python Language Server
+[Info  - 11:37:25 AM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 11:37:25 AM] Interpreter search paths:
+[Info  - 11:37:25 AM]     /usr/lib/python3.6
+[Info  - 11:37:25 AM]     /usr/lib/python3.6/lib-dynload
+[Info  - 11:37:25 AM]     /home/luffy/.local/lib/python3.6/site-packages
+[Info  - 11:37:25 AM]     /usr/local/lib/python3.6/dist-packages
+[Info  - 11:37:25 AM]     /usr/lib/python3/dist-packages
+[Info  - 11:37:25 AM] User search paths:
+[Info  - 11:37:25 AM] Microsoft Python Language Server version 0.3.20.0
+[Info  - 11:37:25 AM] Initializing for /usr/bin/python3
+[Info  - 11:37:28 AM] Connection to server got closed. Server will restart.
+[Info  - 11:37:29 AM] Analysis cache path: /home/luffy/.cache/Microsoft/Python Language Server
+[Info  - 11:37:29 AM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 11:37:29 AM] Interpreter search paths:
+[Info  - 11:37:29 AM]     /usr/lib/python3.6
+[Info  - 11:37:29 AM]     /usr/lib/python3.6/lib-dynload
+[Info  - 11:37:29 AM]     /home/luffy/.local/lib/python3.6/site-packages
+[Info  - 11:37:29 AM]     /usr/local/lib/python3.6/dist-packages
+[Info  - 11:37:29 AM]     /usr/lib/python3/dist-packages
+[Info  - 11:37:29 AM] User search paths:
+[Info  - 11:37:30 AM] Microsoft Python Language Server version 0.3.20.0
+[Info  - 11:37:30 AM] Initializing for /usr/bin/python3

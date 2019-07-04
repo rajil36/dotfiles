@@ -1,0 +1,72 @@
+!SESSION 2019-06-26 15:28:35.615 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_212
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -data /home/luffy/.config/Code/User/workspaceStorage/23a8263ca7bf2fc2158b26e7a8fcc8e9/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.487
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.599
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.616
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.616
+!MESSAGE Initializing Java Language Server 0.40.0.201906051852
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.625
+!MESSAGE Installed reference:file:/home/luffy/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.7/dist/com.microsoft.jdtls.intellicode.core-0.3.13.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.627
+!MESSAGE Installed reference:file:/home/luffy/.vscode/extensions/vscjava.vscode-java-debug-0.19.0/server/com.microsoft.java.debug.plugin-0.19.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.628
+!MESSAGE Installed reference:file:/home/luffy/.vscode/extensions/vscjava.vscode-java-test-0.18.0/server/com.microsoft.java.test.plugin-0.18.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.669
+!MESSAGE Started reference:file:/home/luffy/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.7/dist/com.microsoft.jdtls.intellicode.core-0.3.13.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.669
+!MESSAGE Started reference:file:/home/luffy/.vscode/extensions/vscjava.vscode-java-debug-0.19.0/server/com.microsoft.java.debug.plugin-0.19.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.670
+!MESSAGE Started reference:file:/home/luffy/.vscode/extensions/vscjava.vscode-java-test-0.18.0/server/com.microsoft.java.test.plugin-0.18.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.684
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:37.708
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:38.532
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.325
+!MESSAGE Workspace initialized in 3702ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.353
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.361
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.372
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, console=internalConsole}}, test={report={showAfterExecution=onFailure, position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.547
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.552
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.553
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.554
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-06-26 15:28:41.673
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath

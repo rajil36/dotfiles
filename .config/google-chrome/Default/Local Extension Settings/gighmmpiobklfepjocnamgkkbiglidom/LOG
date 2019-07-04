@@ -1,0 +1,78 @@
+2019/07/04-11:59:07.134 164d Reusing MANIFEST /home/luffy/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2019/07/04-11:59:07.139 164d Recovering log #9464
+2019/07/04-11:59:07.139 164d Reusing old log /home/luffy/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/009464.log 
+2019/07/04-12:00:08.104 18e1 Level-0 table #9468: started
+2019/07/04-12:00:08.157 18e1 Level-0 table #9468: 4222912 bytes OK
+2019/07/04-12:00:08.160 18e1 Delete type=0 #9464
+2019/07/04-12:14:50.133 18e1 Level-0 table #9470: started
+2019/07/04-12:14:50.187 18e1 Level-0 table #9470: 4223113 bytes OK
+2019/07/04-12:14:50.191 18e1 Delete type=0 #9467
+2019/07/04-13:00:08.059 18e1 Level-0 table #9472: started
+2019/07/04-13:00:08.112 18e1 Level-0 table #9472: 4223463 bytes OK
+2019/07/04-13:00:08.116 18e1 Delete type=0 #9469
+2019/07/04-13:00:08.117 18e1 Compacting 4@0 + 2@1 files
+2019/07/04-13:00:08.186 18e1 Generated table #9473@0: 2 keys, 4222604 bytes
+2019/07/04-13:00:08.190 18e1 Generated table #9474@0: 6 keys, 477 bytes
+2019/07/04-13:00:08.190 18e1 Compacted 4@0 + 2@1 files => 4223081 bytes
+2019/07/04-13:00:08.194 18e1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/07/04-13:00:08.194 18e1 Delete type=2 #9470
+2019/07/04-13:00:08.194 18e1 Delete type=2 #9468
+2019/07/04-13:00:08.195 18e1 Delete type=2 #9462
+2019/07/04-13:00:08.195 18e1 Delete type=2 #9465
+2019/07/04-13:00:08.195 18e1 Delete type=2 #9472
+2019/07/04-13:00:08.196 18e1 Delete type=2 #9463
+2019/07/04-13:00:10.413 18e1 Level-0 table #9476: started
+2019/07/04-13:00:10.469 18e1 Level-0 table #9476: 4223114 bytes OK
+2019/07/04-13:00:10.473 18e1 Delete type=0 #9471
+2019/07/04-13:00:11.718 18e1 Level-0 table #9478: started
+2019/07/04-13:00:11.765 18e1 Level-0 table #9478: 4222853 bytes OK
+2019/07/04-13:00:11.769 18e1 Delete type=0 #9475
+2019/07/04-13:07:43.841 18e1 Level-0 table #9480: started
+2019/07/04-13:07:43.891 18e1 Level-0 table #9480: 4222270 bytes OK
+2019/07/04-13:07:43.896 18e1 Delete type=0 #9477
+2019/07/04-14:00:08.119 18e1 Level-0 table #9482: started
+2019/07/04-14:00:08.180 18e1 Level-0 table #9482: 4222706 bytes OK
+2019/07/04-14:00:08.185 18e1 Delete type=0 #9479
+2019/07/04-14:00:08.186 18e1 Compacting 4@0 + 2@1 files
+2019/07/04-14:00:08.282 18e1 Generated table #9483@0: 2 keys, 4222105 bytes
+2019/07/04-14:00:08.287 18e1 Generated table #9484@0: 6 keys, 473 bytes
+2019/07/04-14:00:08.287 18e1 Compacted 4@0 + 2@1 files => 4222578 bytes
+2019/07/04-14:00:08.291 18e1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/07/04-14:00:08.291 18e1 Delete type=2 #9476
+2019/07/04-14:00:08.291 18e1 Delete type=2 #9473
+2019/07/04-14:00:08.292 18e1 Delete type=2 #9480
+2019/07/04-14:00:08.292 18e1 Delete type=2 #9482
+2019/07/04-14:00:08.293 18e1 Delete type=2 #9478
+2019/07/04-14:00:08.293 18e1 Delete type=2 #9474
+2019/07/04-14:04:31.139 18e1 Level-0 table #9486: started
+2019/07/04-14:04:31.190 18e1 Level-0 table #9486: 4222607 bytes OK
+2019/07/04-14:04:31.194 18e1 Delete type=0 #9481
+2019/07/04-15:00:08.118 18e1 Level-0 table #9488: started
+2019/07/04-15:00:08.179 18e1 Level-0 table #9488: 4222607 bytes OK
+2019/07/04-15:00:08.183 18e1 Delete type=0 #9485
+2019/07/04-15:00:10.510 18e1 Level-0 table #9490: started
+2019/07/04-15:00:10.570 18e1 Level-0 table #9490: 4222549 bytes OK
+2019/07/04-15:00:10.574 18e1 Delete type=0 #9487
+2019/07/04-15:00:11.957 18e1 Level-0 table #9492: started
+2019/07/04-15:00:12.017 18e1 Level-0 table #9492: 4222273 bytes OK
+2019/07/04-15:00:12.021 18e1 Delete type=0 #9489
+2019/07/04-15:00:12.023 18e1 Compacting 4@0 + 2@1 files
+2019/07/04-15:00:12.088 18e1 Generated table #9493@0: 2 keys, 4222104 bytes
+2019/07/04-15:00:12.092 18e1 Generated table #9494@0: 6 keys, 473 bytes
+2019/07/04-15:00:12.092 18e1 Compacted 4@0 + 2@1 files => 4222577 bytes
+2019/07/04-15:00:12.096 18e1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/07/04-15:00:12.096 18e1 Delete type=2 #9483
+2019/07/04-15:00:12.097 18e1 Delete type=2 #9486
+2019/07/04-15:00:12.097 18e1 Delete type=2 #9484
+2019/07/04-15:00:12.097 18e1 Delete type=2 #9490
+2019/07/04-15:00:12.098 18e1 Delete type=2 #9488
+2019/07/04-15:00:12.098 18e1 Delete type=2 #9492
+2019/07/04-15:00:30.685 18e1 Level-0 table #9496: started
+2019/07/04-15:00:30.755 18e1 Level-0 table #9496: 4221369 bytes OK
+2019/07/04-15:00:30.760 18e1 Delete type=0 #9491
+2019/07/04-16:00:08.129 18e1 Level-0 table #9498: started
+2019/07/04-16:00:08.187 18e1 Level-0 table #9498: 4221491 bytes OK
+2019/07/04-16:00:08.191 18e1 Delete type=0 #9495
+2019/07/04-16:07:59.073 18e1 Level-0 table #9500: started
+2019/07/04-16:07:59.150 18e1 Level-0 table #9500: 4221655 bytes OK
+2019/07/04-16:07:59.154 18e1 Delete type=0 #9497

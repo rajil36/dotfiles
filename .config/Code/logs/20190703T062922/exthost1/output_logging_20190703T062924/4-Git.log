@@ -1,0 +1,14 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /media/luffy/Data2/finbox-lambdas
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ingestion_assembly/tests/test_dispatcher_file.py
+> git check-ignore -v -z --stdin

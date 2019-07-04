@@ -1,0 +1,6 @@
+2019/07/04-11:59:06.429 164f Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/07/04-11:59:06.432 164f Recovering log #1535
+2019/07/04-11:59:06.432 164f Reusing old log Session Storage/001535.log 
+2019/07/04-14:17:21.845 2d92 Level-0 table #1539: started
+2019/07/04-14:17:21.852 2d92 Level-0 table #1539: 21525 bytes OK
+2019/07/04-14:17:21.855 2d92 Delete type=0 #1535

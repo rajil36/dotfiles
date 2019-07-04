@@ -1,0 +1,40 @@
+swipe:
+  3: 
+    left: 
+      command: 'libinput-tool key alt+Tab'
+    right: 
+      command: 'xdotool alt key+Right'
+    up: 
+      command: 'xdotool key ctrl+t'
+      threshold: 1.5
+    down: 
+      command: 'xdotool key ctrl+w'
+      threshold: 1.5
+  4:
+    left: 
+      command: 'xdotool key super+Left'
+    right: 
+      command: 'xdotool key super+Right'
+    up: 
+      command: 'xdotool key super+a'
+    down: 
+      command: 'xdotool key super+s'
+pinch:
+  2:
+    in:
+      command: 'xdotool key ctrl+plus'
+      threshold: 0.1
+    out:
+      command: 'xdotool key ctrl+minus'
+      threshold: 0.1threshold:
+  swipe: 0.1
+  pinch: 0.4interval:
+  swipe: 0.1
+  pinch: 0.1 // --or replace above with default below--
+threshold:
+  swipe: 1
+  pinch: 1
+
+interval:
+  swipe: 1
+  pinch: 1

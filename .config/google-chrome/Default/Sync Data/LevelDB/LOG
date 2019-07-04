@@ -1,0 +1,21 @@
+2019/07/04-11:59:05.979 15cd Reusing MANIFEST /home/luffy/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/07/04-11:59:05.979 15cd Recovering log #516
+2019/07/04-11:59:05.979 15cd Reusing old log /home/luffy/.config/google-chrome/Default/Sync Data/LevelDB/000516.log 
+2019/07/04-13:05:37.849 18e1 Level-0 table #520: started
+2019/07/04-13:05:37.858 18e1 Level-0 table #520: 111254 bytes OK
+2019/07/04-13:05:37.865 18e1 Delete type=0 #516
+2019/07/04-13:05:37.865 18e1 Compacting 4@0 + 1@1 files
+2019/07/04-13:05:37.874 18e1 Generated table #521@0: 3245 keys, 384160 bytes
+2019/07/04-13:05:37.874 18e1 Compacted 4@0 + 1@1 files => 384160 bytes
+2019/07/04-13:05:37.877 18e1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/04-13:05:37.877 18e1 Delete type=2 #520
+2019/07/04-13:05:37.877 18e1 Delete type=2 #514
+2019/07/04-13:05:37.878 18e1 Delete type=2 #511
+2019/07/04-13:05:37.878 18e1 Delete type=2 #517
+2019/07/04-13:05:37.878 18e1 Delete type=2 #509
+2019/07/04-14:27:33.369 18e1 Level-0 table #523: started
+2019/07/04-14:27:33.386 18e1 Level-0 table #523: 98736 bytes OK
+2019/07/04-14:27:33.391 18e1 Delete type=0 #519
+2019/07/04-16:08:23.783 18e1 Level-0 table #525: started
+2019/07/04-16:08:23.804 18e1 Level-0 table #525: 101080 bytes OK
+2019/07/04-16:08:23.808 18e1 Delete type=0 #522

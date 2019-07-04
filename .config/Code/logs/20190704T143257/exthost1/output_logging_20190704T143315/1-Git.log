@@ -1,0 +1,371 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /media/luffy/Data1/Projects/fsmlib
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :tests/test_extract_txns_fitz.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_fraud.py
+> git show :tests/test_get_edges_test.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_statement_plumber.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_transaction.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :extract_txns_fitz.py
+> git show :fraud.py
+> git show :statement_plumber.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :fraud.py
+> git show :extract_txns_fitz.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :extract_txns_fitz.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :extract_txns_fitz.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_get_edges_test.py
+> git show :get_edges_test.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :get_edges_test.py
+> git show :get_edges_test.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_get_edges_test.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_fraud.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_extract_txns_fitz.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_fraud.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_get_edges_test.py
+> git show :get_edges_test.py
+> git show :tests/test_get_edges_test.py
+> git show :tests/test_statement_plumber.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_statement_plumber.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_statement_plumber.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_transaction.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :tests/test_transaction.py
+> git show :tests/test_transaction.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

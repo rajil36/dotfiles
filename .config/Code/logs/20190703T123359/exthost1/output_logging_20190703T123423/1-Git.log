@@ -1,0 +1,55 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /media/luffy/Data2/fsmlib
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :.gitignore
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git show :.gitignore
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.gitignore
+> git show :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Test-Rajil
+> git rev-parse --symbolic-full-name Test-Rajil@{u}
+fatal: no upstream configured for branch 'Test-Rajil'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

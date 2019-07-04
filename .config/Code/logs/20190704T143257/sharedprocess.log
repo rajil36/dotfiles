@@ -1,0 +1,8 @@
+[2019-07-04 14:33:00.910] [sharedprocess] [info] main {"machineId":"0baf5de31bdd2ba66565cfc526f0ecbd051ad943bb80e195c87023d1ff698130"}
+[2019-07-04 14:33:02.818] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-07-04 14:33:04.276] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/3b03993c-5148-4c8d-9d62-32a40a0b1f1f
+[2019-07-04 14:33:04.867] [sharedprocess] [info] Extracted extension to /home/luffy/.vscode/extensions/.ms-vscode.cpptools-0.24.0: ms-vscode.cpptools
+[2019-07-04 14:33:04.867] [sharedprocess] [info] Renamed to /home/luffy/.vscode/extensions/ms-vscode.cpptools-0.24.0
+[2019-07-04 14:33:04.869] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-07-04 14:33:04.881] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-07-04 14:33:40.920] [sharedprocess] [info] Starting to clean up unused language packs.

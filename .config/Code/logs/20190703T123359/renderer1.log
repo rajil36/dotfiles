@@ -1,0 +1,2 @@
+[2019-07-03 12:34:00.862] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/media/luffy/Data2/finbox-lambdas/ingestion_assembly/.vscode'
+[2019-07-03 12:34:41.324] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/media/luffy/Data2/fsmlib/.vscode'

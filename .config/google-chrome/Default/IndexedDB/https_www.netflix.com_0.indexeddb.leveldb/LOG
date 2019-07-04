@@ -1,0 +1,6 @@
+2019/07/03-23:47:41.553 2e55 Reusing MANIFEST /home/luffy/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/03-23:47:41.553 2e55 Recovering log #7
+2019/07/03-23:47:41.559 2e55 Reusing old log /home/luffy/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000007.log 
+2019/07/04-00:46:09.895 33be Level-0 table #11: started
+2019/07/04-00:46:09.927 33be Level-0 table #11: 2208010 bytes OK
+2019/07/04-00:46:09.933 33be Delete type=0 #7

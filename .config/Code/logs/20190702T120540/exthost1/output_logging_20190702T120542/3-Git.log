@@ -1,0 +1,106 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /media/luffy/Data2/finbox-lambdas
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ingestion_assembly/handler.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :ingestion_assembly/python/utils/dispatcher.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :ingestion_assembly/python/utils/data_sources/sms_meta.py
+> git show :ingestion_assembly/python/utils/data_sources/device.py
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git show :ingestion_assembly/python/utils/dispatcher.py
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git check-ignore -v -z --stdin
+> git show :ingestion_assembly/tests/test_data_sources.py
+> git ls-files --stage -- ingestion_assembly/tests/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ingestion_assembly/tests/test_dispatcher_file.py
+> git show :ingestion_assembly/tests/test_data_sources.py
+> git ls-files --stage -- ingestion_assembly/tests/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ingestion_assembly/tests/test_dispatcher_file.py
+> git show :ingestion_assembly/tests/test_data_sources.py
+> git ls-files --stage -- ingestion_assembly/tests/
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git show :ingestion_assembly/tests/test_data_sources.py
+> git ls-files --stage -- ingestion_assembly/tests/
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git show :ingestion_assembly/tests/test_dispatcher_file.py
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git show :ingestion_assembly/tests/test_dispatcher_file.py
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git show :ingestion_assembly/tests/test_dispatcher_file.py
+> git show :ingestion_assembly/python/utils/data_sources/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Rajil-Test
+> git rev-parse --symbolic-full-name Rajil-Test@{u}
+fatal: no upstream configured for branch 'Rajil-Test'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

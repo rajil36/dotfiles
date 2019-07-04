@@ -1,0 +1,46 @@
+[2019-07-03 15:27:07.694] [exthost] [info] extension host started
+[2019-07-03 15:27:07.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.706] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-03 15:27:07.708] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.708] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-03 15:27:07.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.711] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-03 15:27:07.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.730] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-03 15:27:07.732] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.732] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-07-03 15:27:07.739] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.739] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-03 15:27:07.747] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:07.747] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-07-03 15:27:07.778] [exthost] [info] eager extensions activated
+[2019-07-03 15:27:47.139] [exthost] [info] extension host started
+[2019-07-03 15:27:47.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.171] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-03 15:27:47.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.173] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-03 15:27:47.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.176] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-03 15:27:47.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.194] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-03 15:27:47.195] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.195] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-07-03 15:27:47.203] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.203] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-03 15:27:47.209] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-07-03 15:27:47.209] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-07-03 15:27:47.549] [exthost] [info] eager extensions activated
+[2019-07-03 15:27:53.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-03 15:27:53.305] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/python/out/pythonMain
+[2019-07-03 15:27:53.306] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-03 15:27:53.306] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/batisteo.vscode-django-0.19.0/out/extension
+[2019-07-03 15:27:53.312] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-03 15:27:53.312] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension
+[2019-07-03 15:27:53.421] [exthost] [info] ExtensionService#_doActivateExtension tht13.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-03 15:27:53.421] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain
+[2019-07-03 15:27:53.437] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-03 15:27:53.437] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.7/dist/intellicode
+[2019-07-03 15:42:48.063] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":false,"activationEvent":"onLanguage:xml"}
+[2019-07-03 15:42:48.063] [exthost] [info] ExtensionService#loadCommonJSModule /home/luffy/.vscode/extensions/vscjava.vscode-maven-0.17.1/dist/extension
+[2019-07-03 16:32:50.735] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.references-view {"startup":false,"activationEvent":"onCommand:references-view.find"}
+[2019-07-03 16:32:50.735] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.references-view/dist/extension

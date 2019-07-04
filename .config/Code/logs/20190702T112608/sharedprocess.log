@@ -1,0 +1,30 @@
+[2019-07-02 11:26:12.282] [sharedprocess] [info] main {"machineId":"0baf5de31bdd2ba66565cfc526f0ecbd051ad943bb80e195c87023d1ff698130"}
+[2019-07-02 11:26:12.403] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:12.422] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:12.426] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:12.450] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:12.453] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:12.458] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:12.539] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:12.548] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:14.221] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:14.225] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:14.263] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:14.278] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:14.458] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:14.482] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:15.837] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2019-07-02 11:26:15.854] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:16.472] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:16.485] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /tmp/7d326433-2a45-4734-9a6b-b4b73d906865
+[2019-07-02 11:26:16.547] [sharedprocess] [info] Extracted extension to /home/luffy/.vscode/extensions/.vscjava.vscode-java-debug-0.20.0: vscjava.vscode-java-debug
+[2019-07-02 11:26:16.547] [sharedprocess] [info] Renamed to /home/luffy/.vscode/extensions/vscjava.vscode-java-debug-0.20.0
+[2019-07-02 11:26:16.547] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2019-07-02 11:26:16.581] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:26:16.587] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:26:16.590] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2019-07-02 11:26:52.251] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-02 11:27:01.146] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:27:01.162] [sharedprocess] [info] Scanned system extensions: 72
+[2019-07-02 11:27:01.282] [sharedprocess] [info] Scanned user extensions: 29
+[2019-07-02 11:27:01.291] [sharedprocess] [info] Scanned system extensions: 72

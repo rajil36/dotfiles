@@ -1,0 +1,1201 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3207,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"C",
+						"Choice"
+					],
+					[
+						"Wai",
+						"Wait_30s"
+					],
+					[
+						"Cho",
+						"Choices"
+					],
+					[
+						"lo",
+						"logout"
+					],
+					[
+						"data",
+						"data1"
+					],
+					[
+						"da",
+						"data1"
+					],
+					[
+						"wit",
+						"withdrawl_Selector"
+					],
+					[
+						"p",
+						"press"
+					],
+					[
+						"acc",
+						"accountType"
+					],
+					[
+						"wa",
+						"waitFor"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"if",
+						"iframe"
+					],
+					[
+						"co",
+						"continueButton"
+					],
+					[
+						"cre",
+						"creds"
+					],
+					[
+						"ac",
+						"accountName"
+					],
+					[
+						"get",
+						"getText"
+					],
+					[
+						"mm",
+						"mmt"
+					],
+					[
+						"pa",
+						"password"
+					],
+					[
+						"se",
+						"selectors"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"br",
+						"browser"
+					],
+					[
+						"wat",
+						"waitForNavigation"
+					],
+					[
+						"ban",
+						"bankName"
+					],
+					[
+						"re",
+						"readlineSync"
+					],
+					[
+						"login",
+						"loginButton"
+					],
+					[
+						"ba",
+						"bankName"
+					],
+					[
+						"In",
+						"INDEX"
+					],
+					[
+						"na",
+						"narration"
+					],
+					[
+						"dat",
+						"date_Selector"
+					],
+					[
+						"sel",
+						"selectors"
+					],
+					[
+						"li",
+						"listLength"
+					],
+					[
+						"tra",
+						"transactionNum"
+					],
+					[
+						"la",
+						"last6MonthSelector"
+					],
+					[
+						"refer",
+						"referenceSelector"
+					],
+					[
+						"tr",
+						"transactionNum"
+					],
+					[
+						"go",
+						"goSelector"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"Num",
+						"NumUserSelector"
+					],
+					[
+						"ema",
+						"email"
+					],
+					[
+						"em",
+						"emailselector"
+					],
+					[
+						"Li",
+						"ListEmailSelector"
+					],
+					[
+						"Lis",
+						"ListUserNameSelector"
+					],
+					[
+						"page",
+						"pageUrl"
+					],
+					[
+						"ser",
+						"searchUrl"
+					],
+					[
+						"s",
+						"searchUrl"
+					],
+					[
+						"do",
+						"documentElement"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"lis",
+						"listner1"
+					],
+					[
+						"eve",
+						"eventEmiiter"
+					],
+					[
+						"event",
+						"eventEmiiter"
+					],
+					[
+						"e",
+						"executed"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"conn",
+						"connectHandler"
+					],
+					[
+						"ball",
+						"balls"
+					],
+					[
+						"Ba",
+						"Ball"
+					],
+					[
+						"Ball",
+						"balls"
+					],
+					[
+						"bal",
+						"balls"
+					],
+					[
+						"fil",
+						"fillStyle"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"vel",
+						"velY"
+					],
+					[
+						"ve",
+						"velX"
+					],
+					[
+						"myP",
+						"myPara3"
+					],
+					[
+						"my",
+						"myArticle"
+					],
+					[
+						"sup",
+						"Superpowers"
+					],
+					[
+						"jso",
+						"jsonObj"
+					],
+					[
+						"in",
+						"insertz"
+					],
+					[
+						"ins",
+						"inserty"
+					],
+					[
+						"inse",
+						"insertx"
+					],
+					[
+						"ran",
+						"randomValueFromArray"
+					],
+					[
+						"ra",
+						"randomValueFromArray"
+					],
+					[
+						"st",
+						"storyText"
+					],
+					[
+						"gue",
+						"guessSubmit"
+					],
+					[
+						"d",
+						"disabled"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"gu",
+						"guessCount"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"gues",
+						"guessField"
+					],
+					[
+						"te",
+						"textContent"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/luffy/Desktop/step.json",
+				"/media/luffy/Data1/sparkExtraction/runLocalTest.sh",
+				"/home/luffy/.mozilla/firefox/90w7d7n2.default/chrome/userChrome.css",
+				"/runLocalTest.sh",
+				"/media/luffy/Data1/JavaScript Tut/main.js",
+				"/home/luffy/Downloads/bsadev.html",
+				"/home/luffy/index.html",
+				"/media/luffy/Data1/bankstatementuploader/build/index.html",
+				"/media/luffy/Data1/bankstatementuploader/public/index.html",
+				"/home/luffy/.bashrc",
+				"/home/luffy/package-lock.json",
+				"/home/luffy/new",
+				"/media/luffy/Data1/sparkExtraction/src/main/java/in/finbox/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/sparkExtraction/try.csv",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/creds.json",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/index.js",
+				"/media/luffy/Data1/sparkExtraction/05ca0327-7c18-45a7-8e6c-009a38befe53/tmp/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/sparkExtraction/src/main/resources/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/sparkExtraction/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/bankstatementuploader/build/static/js/index.html",
+				"/home/luffy/bankuploaderdev.js",
+				"/home/luffy/Downloads/data",
+				"/media/luffy/Data1/JavaScript Tut/test.json",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/test.js",
+				"/home/luffy/C++ files/DKS.cpp",
+				"/home/luffy/.aws/credentials",
+				"/media/luffy/Data1/JavaScript Tut/index.html",
+				"/media/luffy/Data1/bankstatementuploader/node_modules/aws-sign2/index.js",
+				"/media/luffy/Data1/bankstatementuploader/build/static/js/main.c4a29db3.js",
+				"/media/luffy/Data1/Node.js Tut/customEvent.js",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/credentials.json",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/untitled.html",
+				"/media/luffy/Data/fsmnodeserver/src/index.js",
+				"/media/luffy/Data/fsmnodeserver/src/banks/hdfc.js",
+				"/media/luffy/Data/fsmnodeserver/src/banks/kotak.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/temp.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/selectors.json",
+				"/media/luffy/Data/Node.js Tut/iphoneEmulator.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/creds.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/credentials.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/index.js",
+				"/media/luffy/Data/fsmnodeserver/statement2.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/statement2.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/hdfcstatement.json",
+				"/media/luffy/Data/selectors",
+				"/media/luffy/Data/Node.js Tut/listen.js",
+				"/media/luffy/Data/Node.js Tut/hn.js",
+				"/media/luffy/Data/Node.js Tut/sniffDetector.js",
+				"/media/luffy/Data/Node.js Tut/main.js",
+				"/media/luffy/Data/Node.js Tut/browser.js",
+				"/media/luffy/Data/Node.js Tut/example.js",
+				"/media/luffy/Data/Node.js Tut/customEvent.js",
+				"/media/luffy/Data/Node.js Tut/creds.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/users.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/statement.json",
+				"/media/luffy/Data/Node.js Tut/blockImage.js",
+				"/media/luffy/Data/JavaScript Tut/NO. Guessing Game/script.js",
+				"/media/luffy/Data/Node.js Tut/githubScrape/index.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/statement1.json",
+				"/media/luffy/Data/Node.js Tut/githubScrape/creds.json",
+				"/media/luffy/Data/Node.js Tut/githubScrape/users.json",
+				"/media/luffy/Data/Node.js Tut/githubScrape/package.json",
+				"/media/luffy/Data/Node.js Tut/search.js",
+				"/media/luffy/Data/JavaScript Tut/Bouncing Ball/main.js",
+				"/media/luffy/Data/Node.js Tut/getDimensions.js",
+				"/media/luffy/Data/Node.js Tut/asyncTest.js",
+				"/media/luffy/Data/Node.js Tut/server.js",
+				"/media/luffy/Data/Node.js Tut/input.txt",
+				"/media/luffy/Data/JavaScript Tut/Bouncing Ball/index.html",
+				"/media/luffy/Data/JavaScript Tut/style.css",
+				"/media/luffy/Data/JavaScript Tut/script.js",
+				"/media/luffy/Data/JavaScript Tut/heroes.html",
+				"/media/luffy/Data/JavaScript Tut/main.js",
+				"/media/luffy/Data/JavaScript Tut/index.html",
+				"/media/luffy/Data/JavaScript Tut/NO. Guessing Game/number-guessing-game-start.html",
+				"/home/luffy/Documents/temp_match.py",
+				"/media/luffy/Data/linux files/Python FIles/temp_match.py",
+				"/home/luffy/Documents/Test cases/TCGenForC++.py",
+				"/home/luffy/Documents/Test cases/logic.cpp"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sms",
+					"Parallel",
+					"encode zstd",
+					"body",
+					"'"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 191.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"result"
+					]
+				],
+				"width": 592.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"C",
+						"Choice"
+					],
+					[
+						"Wai",
+						"Wait_30s"
+					],
+					[
+						"Cho",
+						"Choices"
+					],
+					[
+						"lo",
+						"logout"
+					],
+					[
+						"data",
+						"data1"
+					],
+					[
+						"da",
+						"data1"
+					],
+					[
+						"wit",
+						"withdrawl_Selector"
+					],
+					[
+						"p",
+						"press"
+					],
+					[
+						"acc",
+						"accountType"
+					],
+					[
+						"wa",
+						"waitFor"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"if",
+						"iframe"
+					],
+					[
+						"co",
+						"continueButton"
+					],
+					[
+						"cre",
+						"creds"
+					],
+					[
+						"ac",
+						"accountName"
+					],
+					[
+						"get",
+						"getText"
+					],
+					[
+						"mm",
+						"mmt"
+					],
+					[
+						"pa",
+						"password"
+					],
+					[
+						"se",
+						"selectors"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"br",
+						"browser"
+					],
+					[
+						"wat",
+						"waitForNavigation"
+					],
+					[
+						"ban",
+						"bankName"
+					],
+					[
+						"re",
+						"readlineSync"
+					],
+					[
+						"login",
+						"loginButton"
+					],
+					[
+						"ba",
+						"bankName"
+					],
+					[
+						"In",
+						"INDEX"
+					],
+					[
+						"na",
+						"narration"
+					],
+					[
+						"dat",
+						"date_Selector"
+					],
+					[
+						"sel",
+						"selectors"
+					],
+					[
+						"li",
+						"listLength"
+					],
+					[
+						"tra",
+						"transactionNum"
+					],
+					[
+						"la",
+						"last6MonthSelector"
+					],
+					[
+						"refer",
+						"referenceSelector"
+					],
+					[
+						"tr",
+						"transactionNum"
+					],
+					[
+						"go",
+						"goSelector"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"Num",
+						"NumUserSelector"
+					],
+					[
+						"ema",
+						"email"
+					],
+					[
+						"em",
+						"emailselector"
+					],
+					[
+						"Li",
+						"ListEmailSelector"
+					],
+					[
+						"Lis",
+						"ListUserNameSelector"
+					],
+					[
+						"page",
+						"pageUrl"
+					],
+					[
+						"ser",
+						"searchUrl"
+					],
+					[
+						"s",
+						"searchUrl"
+					],
+					[
+						"do",
+						"documentElement"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"lis",
+						"listner1"
+					],
+					[
+						"eve",
+						"eventEmiiter"
+					],
+					[
+						"event",
+						"eventEmiiter"
+					],
+					[
+						"e",
+						"executed"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"conn",
+						"connectHandler"
+					],
+					[
+						"ball",
+						"balls"
+					],
+					[
+						"Ba",
+						"Ball"
+					],
+					[
+						"Ball",
+						"balls"
+					],
+					[
+						"bal",
+						"balls"
+					],
+					[
+						"fil",
+						"fillStyle"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"vel",
+						"velY"
+					],
+					[
+						"ve",
+						"velX"
+					],
+					[
+						"myP",
+						"myPara3"
+					],
+					[
+						"my",
+						"myArticle"
+					],
+					[
+						"sup",
+						"Superpowers"
+					],
+					[
+						"jso",
+						"jsonObj"
+					],
+					[
+						"in",
+						"insertz"
+					],
+					[
+						"ins",
+						"inserty"
+					],
+					[
+						"inse",
+						"insertx"
+					],
+					[
+						"ran",
+						"randomValueFromArray"
+					],
+					[
+						"ra",
+						"randomValueFromArray"
+					],
+					[
+						"st",
+						"storyText"
+					],
+					[
+						"gue",
+						"guessSubmit"
+					],
+					[
+						"d",
+						"disabled"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"gu",
+						"guessCount"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"gues",
+						"guessField"
+					],
+					[
+						"te",
+						"textContent"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/luffy/Documents/step.json",
+					"settings":
+					{
+						"buffer_size": 2682,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/media/luffy/Data2/Node.js Tut/Scrapper/creds.json",
+					"settings":
+					{
+						"buffer_size": 267,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/luffy/Downloads/xdm-2018-x64/install.sh",
+				"/home/luffy/Desktop/step.json",
+				"/media/luffy/Data1/sparkExtraction/runLocalTest.sh",
+				"/home/luffy/.mozilla/firefox/90w7d7n2.default/chrome/userChrome.css",
+				"/runLocalTest.sh",
+				"/media/luffy/Data1/JavaScript Tut/main.js",
+				"/home/luffy/Downloads/bsadev.html",
+				"/home/luffy/index.html",
+				"/media/luffy/Data1/bankstatementuploader/build/index.html",
+				"/media/luffy/Data1/bankstatementuploader/public/index.html",
+				"/home/luffy/.bashrc",
+				"/home/luffy/package-lock.json",
+				"/home/luffy/new",
+				"/media/luffy/Data1/sparkExtraction/src/main/java/in/finbox/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/sparkExtraction/try.csv",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/creds.json",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/index.js",
+				"/media/luffy/Data1/sparkExtraction/05ca0327-7c18-45a7-8e6c-009a38befe53/tmp/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/sparkExtraction/src/main/resources/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/sparkExtraction/7fd44c14-7aca-4ea8-88d8-9aa6fb026f59.json",
+				"/media/luffy/Data1/bankstatementuploader/build/static/js/index.html",
+				"/home/luffy/bankuploaderdev.js",
+				"/home/luffy/Downloads/data",
+				"/media/luffy/Data1/JavaScript Tut/test.json",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/test.js",
+				"/home/luffy/C++ files/DKS.cpp",
+				"/home/luffy/.aws/credentials",
+				"/media/luffy/Data1/JavaScript Tut/index.html",
+				"/media/luffy/Data1/bankstatementuploader/node_modules/aws-sign2/index.js",
+				"/media/luffy/Data1/bankstatementuploader/build/static/js/main.c4a29db3.js",
+				"/media/luffy/Data1/Node.js Tut/customEvent.js",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/credentials.json",
+				"/media/luffy/Data1/Node.js Tut/Scrapper/untitled.html",
+				"/media/luffy/Data/fsmnodeserver/src/index.js",
+				"/media/luffy/Data/fsmnodeserver/src/banks/hdfc.js",
+				"/media/luffy/Data/fsmnodeserver/src/banks/kotak.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/temp.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/selectors.json",
+				"/media/luffy/Data/Node.js Tut/iphoneEmulator.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/creds.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/credentials.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/index.js",
+				"/media/luffy/Data/fsmnodeserver/statement2.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/statement2.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/hdfcstatement.json",
+				"/media/luffy/Data/selectors",
+				"/media/luffy/Data/Node.js Tut/listen.js",
+				"/media/luffy/Data/Node.js Tut/hn.js",
+				"/media/luffy/Data/Node.js Tut/sniffDetector.js",
+				"/media/luffy/Data/Node.js Tut/main.js",
+				"/media/luffy/Data/Node.js Tut/browser.js",
+				"/media/luffy/Data/Node.js Tut/example.js",
+				"/media/luffy/Data/Node.js Tut/customEvent.js",
+				"/media/luffy/Data/Node.js Tut/creds.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/users.json",
+				"/media/luffy/Data/Node.js Tut/Scrapper/statement.json",
+				"/media/luffy/Data/Node.js Tut/blockImage.js",
+				"/media/luffy/Data/JavaScript Tut/NO. Guessing Game/script.js",
+				"/media/luffy/Data/Node.js Tut/githubScrape/index.js",
+				"/media/luffy/Data/Node.js Tut/Scrapper/statement1.json",
+				"/media/luffy/Data/Node.js Tut/githubScrape/creds.json",
+				"/media/luffy/Data/Node.js Tut/githubScrape/users.json",
+				"/media/luffy/Data/Node.js Tut/githubScrape/package.json",
+				"/media/luffy/Data/Node.js Tut/search.js",
+				"/media/luffy/Data/JavaScript Tut/Bouncing Ball/main.js",
+				"/media/luffy/Data/Node.js Tut/getDimensions.js",
+				"/media/luffy/Data/Node.js Tut/asyncTest.js",
+				"/media/luffy/Data/Node.js Tut/server.js",
+				"/media/luffy/Data/Node.js Tut/input.txt",
+				"/media/luffy/Data/JavaScript Tut/Bouncing Ball/index.html",
+				"/media/luffy/Data/JavaScript Tut/style.css",
+				"/media/luffy/Data/JavaScript Tut/script.js",
+				"/media/luffy/Data/JavaScript Tut/heroes.html",
+				"/media/luffy/Data/JavaScript Tut/main.js",
+				"/media/luffy/Data/JavaScript Tut/index.html",
+				"/media/luffy/Data/JavaScript Tut/NO. Guessing Game/number-guessing-game-start.html",
+				"/home/luffy/Documents/temp_match.py",
+				"/media/luffy/Data/linux files/Python FIles/temp_match.py",
+				"/home/luffy/Documents/Test cases/TCGenForC++.py",
+				"/home/luffy/Documents/Test cases/logic.cpp"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sms",
+					"Parallel",
+					"encode zstd",
+					"body",
+					"'"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/luffy/Documents/step.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2682,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										355,
+										355
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/media/luffy/Data2/Node.js Tut/Scrapper/creds.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 267,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,50,50,690,530,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 191.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"result"
+					]
+				],
+				"width": 592.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

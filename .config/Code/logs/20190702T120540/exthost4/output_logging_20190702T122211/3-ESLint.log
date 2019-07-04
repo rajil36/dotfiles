@@ -1,0 +1,8 @@
+[Info  - 12:22:11 PM] ESLint server stopped.
+[Info  - 12:22:11 PM] ESLint server running in node v10.2.0
+[Info  - 12:22:11 PM] ESLint server is running.
+[Info  - 12:22:12 PM] ESLint library loaded from: /media/luffy/Data2/bankstatementuploader/node_modules/eslint/lib/api.js
+[Warn  - 12:22:12 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /media/luffy/Data2/bankstatementuploader/src/components/BankConnect.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder bankstatementuploader
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.

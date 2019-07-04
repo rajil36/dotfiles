@@ -1,0 +1,2 @@
+[2019-07-04 14:33:22.890] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/luffy/Data1/Projects/fsmlib/.vscode'
+[2019-07-04 14:33:22.890] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/luffy/Data1/Projects/fsmlib/.vscode'

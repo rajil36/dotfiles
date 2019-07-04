@@ -1,0 +1,17 @@
+[2019-07-02 15:20:19.952] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/media/luffy/Data2/finbox-lambdas/ingestion_assembly/.vscode'
+[2019-07-02 15:25:13.460] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:71)
+	at new w (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:20)
+	at new w (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at O (/home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension.js:75:79946)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension.js:75:84017)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension.js:1:173205)
+[2019-07-02 15:25:42.961] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:71)
+	at new w (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:20)
+	at new w (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:333:525)
+	at O (/home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension.js:75:79946)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension.js:75:84017)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/luffy/.vscode/extensions/ms-python.python-2019.6.22090/out/client/extension.js:1:173205)

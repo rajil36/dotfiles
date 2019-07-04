@@ -1,0 +1,12 @@
+Starting Microsoft Python language server.
+[Info  - 3:21:00 PM] Analysis cache path: /home/luffy/.cache/Microsoft/Python Language Server
+[Info  - 3:21:00 PM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 3:21:00 PM] Interpreter search paths:
+[Info  - 3:21:00 PM]     /usr/lib/python3.6
+[Info  - 3:21:00 PM]     /usr/lib/python3.6/lib-dynload
+[Info  - 3:21:00 PM]     /home/luffy/.local/lib/python3.6/site-packages
+[Info  - 3:21:00 PM]     /usr/local/lib/python3.6/dist-packages
+[Info  - 3:21:00 PM]     /usr/lib/python3/dist-packages
+[Info  - 3:21:00 PM] User search paths:
+[Info  - 3:21:01 PM] Microsoft Python Language Server version 0.3.20.0
+[Info  - 3:21:01 PM] Initializing for /usr/bin/python3

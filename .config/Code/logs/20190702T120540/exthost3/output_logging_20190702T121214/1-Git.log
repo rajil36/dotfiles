@@ -1,0 +1,332 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /media/luffy/Data2/fsmnodeserver
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse axisFix
+> git rev-parse --symbolic-full-name axisFix@{u}
+fatal: no upstream configured for branch 'axisFix'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse axisFix
+> git rev-parse --symbolic-full-name axisFix@{u}
+fatal: no upstream configured for branch 'axisFix'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse axisFix
+> git rev-parse --symbolic-full-name axisFix@{u}
+fatal: no upstream configured for branch 'axisFix'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse axisFix
+> git rev-parse --symbolic-full-name axisFix@{u}
+fatal: no upstream configured for branch 'axisFix'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/helper.js
+> git show :src/banks/sbi.js
+> git show :src/helper.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/env_variables.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/helper.js
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/helper.js
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/helper.js
+> git show :src/index.js
+> git show :src/banks/axis.js
+> git show :src/index.js
+> git show :src/helper.js
+> git show :src/banks/axis.js
+> git show :src/helper.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/banks/kotak.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/helper.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/helper.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git show :src/helper.js
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git show :src/helper.js
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git show :src/helper.js
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git show :src/helper.js
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse socket_allow_all
+> git rev-parse --symbolic-full-name socket_allow_all@{u}
+> git show :src/helper.js
+> git rev-list --left-right socket_allow_all...refs/remotes/origin/socket_allow_all
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

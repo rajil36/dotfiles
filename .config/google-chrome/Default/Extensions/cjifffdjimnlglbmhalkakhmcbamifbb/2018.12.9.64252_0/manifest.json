@@ -1,0 +1,54 @@
+{
+   "app": {
+      "icon_color": "#757575",
+      "launch": {
+         "web_url": "https://www.zee5.com/index.html"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://www.zee5.com/assets/common/android-chrome-192x192.png"
+      }, {
+         "size": 48,
+         "url": "https://www.zee5.com/assets/common/android-chrome-192x192.png"
+      }, {
+         "size": 64,
+         "url": "https://www.zee5.com/assets/common/android-chrome-192x192.png"
+      }, {
+         "size": 96,
+         "url": "https://www.zee5.com/assets/common/android-chrome-192x192.png"
+      }, {
+         "size": 128,
+         "url": "https://www.zee5.com/assets/common/android-chrome-192x192.png"
+      }, {
+         "size": 144,
+         "url": "https://www.zee5.com/assets/common/android-chrome-192x192.png"
+      }, {
+         "size": 256,
+         "url": "https://www.zee5.com/assets/common/android-chrome-256x256.png"
+      }, {
+         "size": 512,
+         "url": "https://www.zee5.com/assets/common/android-chrome-512x512.png"
+      } ],
+      "theme_color": "rgba(0,0,0,1)"
+   },
+   "description": "Watch the full episode 986 of bhabi-ji-ghar-par-hain from &TV HD, Zee TV aired on December 7, 2018 online in full HD anytime, anywhere only on ZEE5 – where you feel the episodes come alive!",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "9QnVietITGie/3NVKuUR8P6iRVdSkh7C81Uw3PuYGsU=",
+   "name": "ZEE5",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://www.zee5.com/*" ],
+         "title": "ZEE5"
+      }
+   },
+   "version": "2018.12.9.64252"
+}
