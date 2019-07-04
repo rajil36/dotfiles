@@ -1,0 +1,43 @@
+{
+	"name": "spotify-color-theme",
+	"displayName": "Spotify Color Theme",
+	"description": "Theme for vscode inspired by the colors of spotifyColor inspired by Spotify",
+	"version": "1.2.7",
+	"publisher": "oguhpereira",
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"spotify",
+		"theme",
+		"dark",
+		"Spotify",
+		"spotify-theme"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#181413",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oguhpereira/vscode-spotify-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Spotify",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Spotify-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2fe23fc1-a83e-4ed4-82d6-d1529fdc9d9b",
+		"publisherId": "a1336fdd-52cd-4eb7-9dae-659208a5c983",
+		"publisherDisplayName": "Gustavo Pereira"
+	}
+}

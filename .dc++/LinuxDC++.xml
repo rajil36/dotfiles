@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LinuxDC++>
+	<Settings>
+		<main-window-maximized type="int">1</main-window-maximized>
+		<main-window-pos-x type="int">100</main-window-pos-x>
+		<main-window-pos-y type="int">100</main-window-pos-y>
+		<main-window-size-x type="int">1655</main-window-size-x>
+		<main-window-size-y type="int">687</main-window-size-y>
+		<nick-pane-position type="int">1402</nick-pane-position>
+		<notify-download type="int">1</notify-download>
+		<notify-pm type="int">1</notify-pm>
+		<sharebrowser-pane-position type="int">200</sharebrowser-pane-position>
+		<show-preferences-on-startup type="int">0</show-preferences-on-startup>
+		<tab-position type="int">0</tab-position>
+		<toolbar-style type="int">5</toolbar-style>
+		<transfer-pane-position type="int">469</transfer-pane-position>
+		<use-system-icons type="int">0</use-system-icons>
+		<default-charset type="string">System default</default-charset>
+		<favoritehubs-order type="string">0,1,2,3,4,5,6,7</favoritehubs-order>
+		<favoritehubs-visibility type="string">1,1,1,1,1,1,1,1</favoritehubs-visibility>
+		<favoritehubs-width type="string">100,150,250,175,130,100,150,125</favoritehubs-width>
+		<hub-order type="string">0,1,2,3,4,5,6</hub-order>
+		<hub-visibility type="string">1,1,1,1,1,1,1</hub-visibility>
+		<hub-width type="string">210,75,246,100,85,85,90</hub-width>
+		<publichubs-order type="string">0,1,2,3,4,5,6,7,8,9,10</publichubs-order>
+		<publichubs-visibility type="string">1,1,1,1,1,1,1,1,1,1,1</publichubs-visibility>
+		<publichubs-width type="string">200,350,110,110,100,90,100,100,100,100,70</publichubs-width>
+		<search-order type="string">0,1,2,3,4,5,6,7,8,9,10</search-order>
+		<search-visibility type="string">1,1,1,1,1,1,1,1,1,1,1</search-visibility>
+		<search-width type="string">250,100,65,90,100,70,100,150,100,100,125</search-width>
+		<sharebrowser-order type="string">0,1,2,3,4</sharebrowser-order>
+		<sharebrowser-visibility type="string">1,1,1,1,1</sharebrowser-visibility>
+		<sharebrowser-width type="string">400,100,50,150,120</sharebrowser-width>
+		<transfers-order type="string">0,1,2,3,4,5,6,7,8</transfers-order>
+		<transfers-visibility type="string">1,1,1,1,1,1,1,1,1</transfers-visibility>
+		<transfers-width type="string">150,159,250,90,125,200,125,294,175</transfers-width>
+	</Settings>
+</LinuxDC++>

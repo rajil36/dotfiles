@@ -1,0 +1,93 @@
+{
+  "commands": {
+    "config": [
+      "credentials"
+    ],
+    "create": [
+      "--template",
+      "--template-url",
+      "--template-path",
+      "--path",
+      "--name"
+    ],
+    "install": [
+      "--url",
+      "--name"
+    ],
+    "package": [
+      "--stage",
+      "--region",
+      "--package"
+    ],
+    "deploy": [
+      "--conceal",
+      "--stage",
+      "--region",
+      "--package",
+      "--verbose",
+      "--force",
+      "--function",
+      "--aws-s3-accelerate",
+      "function",
+      "list"
+    ],
+    "invoke": [
+      "--function",
+      "--stage",
+      "--region",
+      "--path",
+      "--type",
+      "--log",
+      "--data",
+      "--raw",
+      "local"
+    ],
+    "info": [
+      "--stage",
+      "--region",
+      "--verbose"
+    ],
+    "logs": [
+      "--function",
+      "--stage",
+      "--region",
+      "--tail",
+      "--startTime",
+      "--filter",
+      "--interval"
+    ],
+    "metrics": [
+      "--function",
+      "--stage",
+      "--region",
+      "--startTime",
+      "--endTime"
+    ],
+    "print": [
+      "--format",
+      "--path",
+      "--transform"
+    ],
+    "remove": [
+      "--stage",
+      "--region",
+      "--verbose"
+    ],
+    "rollback": [
+      "--timestamp",
+      "--verbose",
+      "function"
+    ],
+    "slstats": [
+      "--enable",
+      "--disable"
+    ],
+    "plugin": [
+      "install",
+      "uninstall",
+      "list",
+      "search"
+    ]
+  },
+  "validationHash": "c6208c8705d5ec056e655efcde0af8c5a08576e31b2b6d7251db24d9ac03d680"
+}
